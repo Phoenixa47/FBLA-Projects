@@ -1,0 +1,1 @@
+removed assets to speed up git push
