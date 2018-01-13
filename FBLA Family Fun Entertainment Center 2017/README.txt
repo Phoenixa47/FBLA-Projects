@@ -23,4 +23,4 @@ To Run the app:
 Open the FEC_Project_Weingartner folder
 run the FEC.application file, then click install.  The setup file should work too, they seem to do the same thing.  This should just run the program and and will not install anything on your machine.  To completley remove the application, just close and delete the project folder.
 
-If you have any questions or comments, please please please contact me ;).  You can reach me by email: leon.weingartner@suusuccess.org or by phone (435) 592-3071.  Have fun with the application :}
+If you have any questions or comments, please please please contact me ;).  You can reach me by email: felix.weingartner@suusuccess.org or by phone (435) 592-3071.  Have fun with the application :}
